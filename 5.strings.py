@@ -51,3 +51,8 @@ print(message7.replace('H', 'C'))
 
 message8 = 'Hello, World'
 print(message8.split(','))  # returns ['Hello', ' World!']
+
+# Python allows for command line input, That means we are able to ask the user for input
+print("Please enter your name:")
+x = input()
+print("Hello, " + x)
