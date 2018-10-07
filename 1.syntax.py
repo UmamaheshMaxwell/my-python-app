@@ -10,7 +10,7 @@ if 5 > 2:
 
 """ 
 This is multi-line docstring 
-which can be written in two lines 
+which can be written in many lines 
 
 """
 print("This is multi-line doc")
