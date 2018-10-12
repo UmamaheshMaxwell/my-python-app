@@ -1,4 +1,4 @@
-This is a basic python app to understand the basics
+# This is a basic python app to understand the basics
 
 1. You have to install python in your Mac or Windows Machine
    https://www.python.org/downloads/ or brew install python3 (Mac)
